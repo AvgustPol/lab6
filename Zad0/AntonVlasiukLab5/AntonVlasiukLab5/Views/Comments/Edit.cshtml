@@ -1,0 +1,17 @@
+﻿@model AntonVlasiukLab5.Models.Comment
+
+@{
+    ViewBag.Title = "Edit your comment";
+}
+
+<h2>Edit comment</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.Label("Comment")
+        @Html.TextBoxFor(m => m.Content, new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Edit</button>
+}

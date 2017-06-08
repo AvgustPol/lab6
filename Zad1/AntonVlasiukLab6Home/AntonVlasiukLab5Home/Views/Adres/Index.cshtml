@@ -1,0 +1,18 @@
+﻿@model List<AntonVlasiukLab5Home.Models.Adres>
+
+@{
+    ViewBag.Title = "Adreses";
+}
+
+<h2>Adreses</h2>
+
+@foreach (var adres in Model)
+{
+    <span>City: </span>
+    @adres.City; <br />
+    <span>Street: </span>
+    @adres.Street; <br />
+    <span>House: </span>
+    @adres.House; <br />
+    <br />
+}

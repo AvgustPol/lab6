@@ -1,0 +1,90 @@
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\csc.exe
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\System.Collections.Immutable.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\vbc.exe
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\VBCSCompiler.exe
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\VBCSCompiler.exe.config
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\AntonVlasiukLab5.dll.config
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\AntonVlasiukLab5.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\AntonVlasiukLab5.pdb
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\EntityFramework.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\EntityFramework.SqlServer.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\Microsoft.Web.Infrastructure.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Helpers.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Mvc.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Razor.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Webpages.Deployment.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Webpages.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Webpages.Razor.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\EntityFramework.xml
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\EntityFramework.SqlServer.xml
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Razor.xml
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Webpages.xml
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Webpages.Deployment.xml
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Webpages.Razor.xml
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Helpers.xml
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Mvc.xml
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.dll
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.pdb
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.Migrations.Init.resources
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.csproj.GenerateResource.Cache
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.Migrations.AddedAuthor.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.Migrations.RequiresAndMinLength.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.Migrations.addedControllerFormCommnets.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.Migrations.addedPostToCommentAsVariable.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.Migrations.deletedAuthorFromComments.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.Migrations.deletedAuthorsFromPost.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\csc.exe
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\vbc.exe
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\AntonVlasiukLab5.dll.config
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\AntonVlasiukLab5.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\AntonVlasiukLab5.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\EntityFramework.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\EntityFramework.SqlServer.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Helpers.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Mvc.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Razor.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Webpages.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Webpages.Razor.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\EntityFramework.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\EntityFramework.SqlServer.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Razor.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Webpages.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Webpages.Razor.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Helpers.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\bin\System.Web.Mvc.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.Migrations.Init.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.Migrations.AddedAuthor.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.Migrations.RequiresAndMinLength.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.Migrations.addedControllerFormCommnets.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.Migrations.addedPostToCommentAsVariable.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.Migrations.deletedAuthorFromComments.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.Migrations.deletedAuthorsFromPost.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab6\Zad0\AntonVlasiukLab5\AntonVlasiukLab5\obj\Debug\AntonVlasiukLab5.pdb

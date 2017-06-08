@@ -1,0 +1,73 @@
+﻿@model IList<AntonVlasiukLab5Home.Models.Student>
+
+@{
+    ViewBag.Title = "Students";
+}
+
+<div>
+    <h2>
+        List of students
+        <button class="btn btn-link">
+            @Html.ActionLink("Add new student", "Add", "Student", new { area = "" })
+        </button>
+    </h2>
+    <hr />
+</div>
+
+@foreach (var student in Model)
+{
+    <div class="row">
+        <div class="col-md-2">
+            <h4>
+                <b>Name:</b>
+            </h4>
+        </div>
+        <div class="col-md-6">
+            <h4>
+                @student.FirstName;
+            </h4>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-2">
+            <h4>
+                <b>Last name:</b>
+            </h4>
+        </div>
+        <div class="col-md-6">
+            <h4>
+                @student.LastName;
+            </h4>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-2">
+            <h4>
+                <b>Age:</b>
+            </h4>
+        </div>
+        <div class="col-md-6">
+            <h4>
+                @student.Age;
+            </h4>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-2">
+            <button class="btn btn-default">
+                @Html.ActionLink("Edit", "Edit", new { id = student.Id })
+            </button>
+        </div>
+        <div class="col-md-6">
+        @using (Html.BeginForm("Delete", "Student", FormMethod.Post))
+        {
+            @Html.Hidden("id", student.Id)
+            <button type="submit" class="btn btn-danger">Delete</button>
+        }
+        </div>
+    </div>
+    <hr />
+}

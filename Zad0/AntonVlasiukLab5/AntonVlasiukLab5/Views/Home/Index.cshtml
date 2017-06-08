@@ -1,0 +1,13 @@
+﻿@model IList<AntonVlasiukLab5.Models.Post>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@foreach (var post in Model)
+{
+    @post.Title; <br />
+    @post.Body; <br />
+}

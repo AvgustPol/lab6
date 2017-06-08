@@ -1,0 +1,22 @@
+﻿@model AntonVlasiukLab5.Models.Comment
+
+@{
+    ViewBag.Title = "Add comment";
+}
+
+<h2>Add</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(id => @Model.Post.Id);
+    @Html.HiddenFor(title => @Model.Post.Title);
+    @Html.HiddenFor(body => @Model.Post.Body);
+    @Html.HiddenFor(date => @Model.Post.CreatedAt);
+
+    <div class="form-group">
+        @Html.Label("Write new comment: ")
+        @Html.TextAreaFor(m => m.Content, new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-success">Add</button>
+}
